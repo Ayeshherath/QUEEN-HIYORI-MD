@@ -63,18 +63,18 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘", 
-  author: process.env.Author || "@𝞘𝞒𝞗𝞜𝞛𝞓𝞜",
-  packname: process.env.PackName || "𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘 𝞛𝘿",
+  botname: process.env.BotName || " 𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️", 
+  author: process.env.Author || "@ 𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️",
+  packname: process.env.PackName || " 𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© IRONMANHINDIGAMING",
+  footer: process.env.Footer || "©  𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️",
   prefa: process.env.Prefix || ['#'],
   themeemoji: process.env.ThemeEmoji || "💞",
-  ownername: process.env.Owner_Name || "IRONMAN",
-  ownernumber: process.env.Owner_Number || "918279975767",
-  instagramId: process.env.Insta || "ironmanhindigaming",
+  ownername: process.env.Owner_Name || " 𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️",
+  ownernumber: process.env.Owner_Number || "94741022500",
+  instagramId: process.env.Insta || " 𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "mongodb+srv://Kriss:Boluwatife99@cluster0.gnwpzxk.mongodb.net/?retryWrites=true&w=majority",
+  mongoUrl: process.env.MongoDB || "mongodb+srv://Poddabot:podda123@cluster0.wrj3wpr.mongodb.net/",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
@@ -105,19 +105,19 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘" 
-global.author = process.env.Author || "@𝞘𝞒𝞗𝞜𝞛𝞓𝞜" 
-global.packname = process.env.PackName || "𝙌𝙐𝞢𝞢𝞜 𝞖𝞘𝙔𝞗𝞒𝞘 𝞛𝘿" 
+global.botname = process.env.BotName || 𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️" 
+global.author = process.env.Author || "@𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️" 
+global.packname = process.env.PackName || "𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
 global.footer = process.env.Footer || "© ironmanhindigaming" 
 global.prefa = process.env.Prefix || ['#'] 
 global.themeemoji = process.env.ThemeEmoji || "💞" 
-global.ownername = process.env.Owner_Name || "𝞘𝞒𝞗𝞜𝞛𝞓𝞜" 
-global.ownernumber = process.env.Owner_Number || "918279975767" 
+global.ownername = process.env.Owner_Name || "𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️" 
+global.ownernumber = process.env.Owner_Number || "94741022500" 
 global.adress = process.env.Continent || "Asia, India, Delhi" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "ironmanhindigaming" 
-global.email = process.env.Email_Id || "ironmanhindigaming@gmail.com" 
+global.instagramId = process.env.Insta || "𝚂𝙺𝚄𝙻𝙻 𝙱𝙾𝙼𝙱♠️" 
+global.email = process.env.Email_Id || "ayeshuditha10383@gmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
